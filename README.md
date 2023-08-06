@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi I am Glen Rodrigues👋
+About me:
+I am a Devops Engineer with experience in AWS & Devops tools like jenkins,codepipline,docker and ECS as well and, I'm exploring Terraform and kubernetes.
+
+I'm looking for full-time Remote/onsite Jobs.
+
+I like finance and can go on talking for hours about Investment, Personal Finance, Stock Markets, Global Economies, etc.
+
+I am an cloud computing enthusiast and developed many project to practice cloud computing skills.
+
+
+Skills
+cloud Platforms: AWS
+
+Programming: Python 
+
+Devops: Jenkins,ECS,Docker,git,Terraform
+
+Databases:MongoDB,SQl
+
+
+
 
 <!--
 **Glenrodrigues/GlenRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
