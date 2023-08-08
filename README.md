@@ -26,11 +26,11 @@ I am an cloud computing enthusiast and developed many project to practice cloud 
 
 | Project                        | Description      | Tech Stack                    | Source Code |
 | :------------                  |   :---:          | :--------:                     | --------: |
-| `Cloud based website +Devops`  | E-Commerce website for local Pharmacy using AWS ML and AI | MERN Stack | dhjsgd      |
-| `E-Commerce + Devops`          |E-Commerce Shop website built using Javascript and AWS(dynamodb) aimed at small-scale local businesses | Javascript,PHP,MYSQL |  skahjs |
-| `EDA of Cycle Company`         | Behavioral pattern of subscribe and non-subscribe member. | JupyterNotebook,Python|                 |
-| `EDA of Fitness band `         | Understanding user raw data and suggesting healthcare solution to their problem. | JupyterNotebook,Python |                   |
-| `Tableau Dashboard for Covid-19`| Converted raw data from WHO into interactive dashboard |                   | `Los Angeles`      |                     |            |
+| `Cloud based website +Devops`  | E-Commerce website for local Pharmacy using AWS ML and AI | MERN Stack |[frontend](https://github.com/Glenrodrigues/cloud-project/tree/main/foodapp-client),[backend](https://github.com/Glenrodrigues/cloud-project/tree/main/foodHub-backend-server-master)      |
+| `E-Commerce + Devops`          |E-Commerce Shop website built using Javascript and AWS(dynamodb) aimed at small-scale local businesses | Javascript,PHP,MYSQL |  [repo](https://github.com/Glenrodrigues/Cyclist-Jupyter-notebook) |
+| `EDA of Cycle Company`         | Behavioral pattern of subscribe and non-subscribe member. | JupyterNotebook,Python|[repo](https://github.com/Glenrodrigues/Cyclist-Jupyter-notebook)                 |
+| `EDA of Fitness band `         | Understanding user raw data and suggesting healthcare solution to their problem. | JupyterNotebook,Python |[repo](https://github.com/Glenrodrigues/Bella_belt)                   |
+| `Tableau Dashboard for Covid-19`| Converted raw data from WHO into interactive dashboard |                 | [repo](https://github.com/Glenrodrigues/Covid_DashBoard-Using-Tableau-)      |                     |            |
 
 
 
