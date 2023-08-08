@@ -25,12 +25,12 @@ I am an cloud computing enthusiast and developed many project to practice cloud 
 ### Projects
 
 | Project                        | Description      | Tech Stack                    | Source Code |
-| :------------                  |   :---:          | --------:                     | --------: |
-| `Cloud based website +Devops`  | Test1            | `MERN Stack`                  | dhjsgd      |
-| `E-Commerce + Devops`          | Test2            | `Javascript,PHP,MYSQL`        |  skahjs       |
-| `EDA of Cycle Company`         | LastName         | ` JupyterNotebook,Python`     |                 |
-| `EDA of Fitness band `         | Test1            | `JupyterNotebook,Python`      |                   |
-| `Tableau Dashboard for Covid-19`|                 |                               | `Los Angeles`      |                     |            |
+| :------------                  |   :---:          | :--------:                     | --------: |
+| `Cloud based website +Devops`  | E-Commerce website for local Pharmacy using AWS ML and AI | MERN Stack | dhjsgd      |
+| `E-Commerce + Devops`          |E-Commerce Shop website built using Javascript and AWS(dynamodb) aimed at small-scale local businesses | Javascript,PHP,MYSQL |  skahjs |
+| `EDA of Cycle Company`         | Behavioral pattern of subscribe and non-subscribe member. | JupyterNotebook,Python|                 |
+| `EDA of Fitness band `         | Understanding user raw data and suggesting healthcare solution to their problem. | JupyterNotebook,Python |                   |
+| `Tableau Dashboard for Covid-19`| Converted raw data from WHO into interactive dashboard |                   | `Los Angeles`      |                     |            |
 
 
 
